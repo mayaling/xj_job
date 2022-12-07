@@ -23,7 +23,7 @@
     "postcss-loader": "^2.1.6",
     "postcss-pxtorem": "^4.0.1",
     "postcss-url": "^8.0.0",
-    "qs": "^6.7.0",
+    "qs": "^6.5.3",
     "vconsole": "^3.3.2",
     "vue": "^2.5.16",
     "vue-amap": "^0.5.10",
